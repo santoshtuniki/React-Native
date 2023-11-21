@@ -1,6 +1,6 @@
 #### npm run android
 
-#### npm run ios (Only on macOS)
+#### npm run ios
 
 #### npm run web 
 
